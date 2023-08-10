@@ -1,1 +1,1 @@
-# NLP_Techniques_Hindi
+# NLP Techniques on Hindi
