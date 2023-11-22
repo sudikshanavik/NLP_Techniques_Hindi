@@ -1,4 +1,6 @@
 # NLP Techniques on Hindi
+## Members :-
+### Drashtant Singh Rathod, Sudiksha Navik
 ## Assignment-1
 Link to datasets: https://github.com/UniversalDependencies/UD_Hindi-HDTB/tree/master<br>
 The corpus files are available from https://indicnlp.ai4bharat.org/corpora/#downloads<br>
